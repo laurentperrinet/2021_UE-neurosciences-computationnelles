@@ -1,6 +1,6 @@
-# 2020-04_UE-neurosciences-computationnelles
-matériel pour le cours de modélisation
+# 2020-04_UE-neurosciences-computationnelles: matériel pour le cours de modélisation
 
+![activité d'un neurone]()
 
 * premier article à lire sur la perception: https://laurentperrinet.github.io/post/2019-06-06-theconversation/ [lien direct](https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389)
 
@@ -8,7 +8,7 @@ matériel pour le cours de modélisation
 
 ## d'autre cours sur le même sujet
 
-* [Des illusions aux hallucinations visuelles: une porte sur la perception](https://laurentperrinet.github.io/talk/2019-04-18-jnlf/) §[slides](https://laurentperrinet.github.io/2019-04-18_JNLF/))
+* [Des illusions aux hallucinations visuelles: une porte sur la perception](https://laurentperrinet.github.io/talk/2019-04-18-jnlf/) ([slides](https://laurentperrinet.github.io/2019-04-18_JNLF/))
 
 * [Modelling spiking neural networks using Brian, Nest and pyNN](https://laurentperrinet.github.io/talk/2019-04-03-a-course-on-vision-and-modelization/) ([slides](https://laurentperrinet.github.io/2019-01-14_LACONEU/))
 
