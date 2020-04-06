@@ -2,13 +2,13 @@
 matériel pour le cours de modélisation
 # From the retina to action: Understanding visual processing
 
-* Où: Marseille (France) - et principalement de faaçon virtuelle
+* Où: Marseille (France)
 
 * Quoi: Master Neurosciences et Sciences Cognitives
 
 * But de ce travail: lire un article scientifique et pouvoir à la fois le reproduire avec des simulations de neurones.
 
-* Modalités: les étudiants s'organisent seuls, en binome ou en trinome pour fournir un mémoire sous forme de `notebook` complété à partir de celui qui est fourni. Les commentaires doivent être fait en français (ou en anglais si nécessaire).
+* Modalités: les étudiants s'organisent seuls, en binome ou en trinome pour fournir un mémoire sous forme de `notebook` complété à partir du modèle qui est fourni. Suivez les balises `TODO` dans le notebook pour vous guider dans cette rédaction. Les commentaires doivent être fait en français (ou en anglais si nécessaire) dans le notebook (n'oubliez-pas de sauver vos changements) et envoyé par e-mail à mailto:laurent.perrinet@univ-amu.fr une fois votre travail fini (de préférence avant le ).
 
 * Forum de questions: https://spik.xyz/nc/index.php/call/xuswegwv (pas de logiciel / login nécessaire)
 
@@ -24,18 +24,16 @@ Ici, nous allons essayer de répliquer la figure 1 de [Mainen & Sejnowski (1995)
 
 ![Mainen Sejnowski 1995](http://i.stack.imgur.com/ixnrz.png "figure 1")
 
-Et pour celà, nous allons procéder à plusieures étapes progressives à rédiger dans le [noteboook](src/A_0_IntegrateAndFire.ipynb):
-
 ## prise en main des outils: numpy et matplotlib
 
 - on va créer des vecteurs représentant la dynamique d'un valeur en fonction du temps
-- pour cela, on crée un vecteur `time, 1995 représentant 2 secondes avec une précision de dt=1ms
+- pour cela, on crée un vecteur `time' représentant 1 seconde avec une précision de dt=.5ms
 - dans un premier temps, on va créer un plot d'un spike, d'un créneau & d'une sinusoïde
 
 ## définition du problème: leaky-integrate and fire neuron
 
 - on va simuler 1 neurone pour 2 secondes avec une précision de dt=1ms
-- pour cela, on utilise l'équation d'un lIF
+- pour cela, on utilise l'équation d'un leaky-IF
 - on montre alors sa réponse aux stimuli créés ci-dessus
 
 ## injection d'un bruit
@@ -48,11 +46,7 @@ Et pour celà, nous allons procéder à plusieures étapes progressives à rédi
 
 - on va utiliser [brian](http://briansimulator.org/) pour écrire l'équation du lIF et refaire les mêmes simulations
 - on compare avec d'autres modèles de neurone
-
-## références
-
-* http://e.guigon.free.fr/rsc/article/BretteGuigon03.pdf
-
+- référence: http://e.guigon.free.fr/rsc/article/BretteGuigon03.pdf
 
 # Annexe
 
