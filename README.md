@@ -1,22 +1,20 @@
-# 2020-04_UE-neurosciences-computationnelles
-matériel pour le cours de modélisation
-# From the retina to action: Understanding visual processing
+# 2020-04_UE-neurosciences-computationnelles, matériel pour le cours de modélisation
 
 * Où: Marseille (France)
 
 * Quoi: Master Neurosciences et Sciences Cognitives
 
-* But de ce travail: lire un article scientifique et pouvoir à la fois le reproduire avec des simulations de neurones.
+* But de ce travail: lire un article scientifique, pouvoir le reproduire avec des simulations d'un neurone et afin d'améliorer sa compréhension.
 
-* Modalités: les étudiants s'organisent seuls, en binome ou en trinome pour fournir un mémoire sous forme de `notebook` complété à partir du modèle qui est fourni. Suivez les balises `TODO` dans le notebook pour vous guider dans cette rédaction. Les commentaires doivent être fait en français (ou en anglais si nécessaire) dans le notebook (n'oubliez-pas de sauver vos changements) et envoyé par e-mail à mailto:laurent.perrinet@univ-amu.fr une fois votre travail fini (de préférence avant le ).
+* Modalités: les étudiants s'organisent seuls, en binome ou en trinome pour fournir un mémoire sous forme de [notebook](https://jupyter.org/) complété à partir [du modèle qui est fourni](https://raw.githubusercontent.com/laurentperrinet/2020-04_UE-neurosciences-computationnelles/master/MainenSejnowski1995.ipynb). Suivez les balises `TODO` dans le notebook pour vous guider dans cette rédaction. Les commentaires doivent être fait en français (ou en anglais si nécessaire) dans le notebook (n'oubliez-pas de sauver vos changements) et envoyé par e-mail à mailto:laurent.perrinet@univ-amu.fr une fois votre travail fini (de préférence avant le 31 avri).
+
+* Outils nécessaires: [Jupyter](https://jupyter.org/), avec [numpy](https://numpy.org/) et [matplotlib](https://matplotlib.org/). Ce sont des outils standard et qui sont facilement installables sur toute plateforme. Si vous avez des problèmes, me joindre par e-mail ou sur le [forum](https://spik.xyz/nc/index.php/call/xuswegwv) 👇
 
 * Forum de questions: https://spik.xyz/nc/index.php/call/xuswegwv (pas de logiciel / login nécessaire)
 
-# reproduction de l'article de Mainen & Sejnowski, 1995
+# TP: reproduction de l'article de Mainen & Sejnowski, 1995
 
 ## contexte
-
-* en premier lieu, un article à lire sur le temps dans le cerveau: https://laurentperrinet.github.io/publication/perrinet-19-temps/ [lien direct](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567)
 
 * Le but de cette première tache est de créer un "raster plot" qui montre la reproducibilité d'un train de spike avec des répétitions du même stimulus, comme dans ce travail dans la [rétine de rongeurs](https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/#/1/3) ou dans le [cortex (V1) du chat](https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/#/1/6).
 
@@ -48,12 +46,11 @@ Ici, nous allons essayer de répliquer la figure 1 de [Mainen & Sejnowski (1995)
 - on compare avec d'autres modèles de neurone
 - référence: http://e.guigon.free.fr/rsc/article/BretteGuigon03.pdf
 
-# Annexe
+# Annexes
 
-## d'autre cours sur le même sujet
+* un article à lire sur le temps dans le cerveau: https://laurentperrinet.github.io/publication/perrinet-19-temps/ [lien direct](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567)
 
 * [Des illusions aux hallucinations visuelles: une porte sur la perception](https://laurentperrinet.github.io/talk/2019-04-18-jnlf/) - ([slides](https://laurentperrinet.github.io/2019-04-18_JNLF/)) - article sur la perception visuelle : https://laurentperrinet.github.io/post/2019-06-06-theconversation/ [lien direct](https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389)
-
 
 * [Modelling spiking neural networks using Brian, Nest and pyNN](https://laurentperrinet.github.io/talk/2019-04-03-a-course-on-vision-and-modelization/) - ([slides](https://laurentperrinet.github.io/2019-01-14_LACONEU/))
 
