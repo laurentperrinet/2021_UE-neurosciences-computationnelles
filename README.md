@@ -8,9 +8,9 @@ matériel pour le cours de modélisation
 
 * But de ce travail: lire un article scientifique et pouvoir à la fois le reproduire avec des simulations de neurones.
 
-* Modalités: les étudiants s'organisent seuls, en binome ou en trinome pour fournir un mémoire sous forme de `notebook` complété à partir de celui qui est fourni. Les commentaires doivent être fait en anglais.
+* Modalités: les étudiants s'organisent seuls, en binome ou en trinome pour fournir un mémoire sous forme de `notebook` complété à partir de celui qui est fourni. Les commentaires doivent être fait en français (ou en anglais si nécessaire).
 
-* Forum de questions: https://spik.xyz/nc/index.php/call/xuswegwv
+* Forum de questions: https://spik.xyz/nc/index.php/call/xuswegwv (pas de logiciel / login nécessaire)
 
 # reproduction de l'article de Mainen & Sejnowski, 1995
 
