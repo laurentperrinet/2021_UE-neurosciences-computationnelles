@@ -1,4 +1,4 @@
-# 2020-04_UE-neurosciences-computationnelles, matériel pour le cours de modélisation
+# 2021_UE-neurosciences-computationnelles, matériel pour le cours de modélisation
 
 * Où: Marseille (France)
 
@@ -6,11 +6,9 @@
 
 * But de ce travail: lire un article scientifique, pouvoir le reproduire avec des simulations d'un neurone et afin d'améliorer sa compréhension.
 
-* Modalités: les étudiants s'organisent seuls, en binome ou en trinome pour fournir un mémoire sous forme de [notebook](https://jupyter.org/) complété à partir [du modèle qui est fourni](https://raw.githubusercontent.com/laurentperrinet/2020-04_UE-neurosciences-computationnelles/master/MainenSejnowski1995.ipynb). Suivez les balises `TODO` dans le notebook pour vous guider dans cette rédaction. Les commentaires doivent être fait en français (ou en anglais si nécessaire) dans le notebook (n'oubliez-pas de sauver vos changements) et envoyé par e-mail à mailto:laurent.perrinet@univ-amu.fr une fois votre travail fini (de préférence avant le 31 avri).
+* Modalités: les étudiants s'organisent seuls, en binome ou en trinome pour fournir un mémoire sous forme de [notebook](https://jupyter.org/) complété à partir [du modèle qui est fourni](https://raw.githubusercontent.com/laurentperrinet/2021_UE-neurosciences-computationnelles/master/MainenSejnowski1995.ipynb). Suivez les balises `TODO` dans le notebook pour vous guider dans cette rédaction. Les commentaires doivent être fait en français (ou en anglais si nécessaire) dans le notebook (n'oubliez-pas de sauver vos changements) et envoyé par e-mail à mailto:laurent.perrinet@univ-amu.fr une fois votre travail fini (de préférence avant le 31 avril).
 
 * Outils nécessaires: [Jupyter](https://jupyter.org/), avec [numpy](https://numpy.org/) et [matplotlib](https://matplotlib.org/). Ce sont des outils standard et qui sont facilement installables sur toute plateforme. Si vous avez des problèmes, me joindre par e-mail ou sur le [forum](https://spik.xyz/nc/index.php/call/xuswegwv) 👇
-
-* Forum de questions: https://spik.xyz/nc/index.php/call/xuswegwv (pas de logiciel / login nécessaire)
 
 # TP: reproduction de l'article de Mainen & Sejnowski, 1995
 
