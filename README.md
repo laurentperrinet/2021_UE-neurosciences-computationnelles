@@ -2,7 +2,7 @@
 
 * Où: Marseille (France)
 
-* Quoi: Master Neurosciences et Sciences Cognitives
+* Quoi: [Master 1 Neurosciences et Sciences Cognitives](https://ametice.univ-amu.fr/course/view.php?id=70136)
 
 * But de ce travail: lire un article scientifique, pouvoir le reproduire avec des simulations d'un neurone et afin d'améliorer sa compréhension.
 
@@ -37,12 +37,6 @@ Ici, nous allons essayer de répliquer la figure 1 de [Mainen & Sejnowski (1995)
 - Comme dans la figure 1 de Mainen & Sejnowski (1995), on ajoute un bruit à l'injection de courant
 - ce bruit peut être caractisé par son amplitude et son temps caractéristique: quel est l'impact sur le résultat?
 - que se passe-t-il quand on inclut un bruit interne à la dynamique du neurone?
-
-## bonus: utilisation de pyNN / brian
-
-- on va utiliser [brian](http://briansimulator.org/) pour écrire l'équation du lIF et refaire les mêmes simulations
-- on compare avec d'autres modèles de neurone
-- référence: http://e.guigon.free.fr/rsc/article/BretteGuigon03.pdf
 
 # Annexes
 
