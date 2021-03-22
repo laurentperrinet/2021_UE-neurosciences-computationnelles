@@ -1,8 +1,27 @@
 # 2021_UE-neurosciences-computationnelles, matériel pour le cours de modélisation
 
+
 * Où: Marseille (France)
 
 * Quoi: Master Neurosciences et Sciences Cognitives
+
+
+1. _Réseaux neuronaux artificiels pour la vision_
+
+  * Mercredi 24/03/2021 de 9h-12h
+  * Introduction aux Neurosciences de la Vision
+  * Réseaux de neurones artificiels et apprentissage machine
+
+2. _Neurones impulsionnels et modèles des fonctions visuelles_
+  * Mercredi 24/03/2021 de 13h30-16h30
+  * TP via notebook
+  * https://github.com/laurentperrinet/2021_UE-neurosciences-computationnelles/
+
+Rendez-vous sur https://univ-amu-fr.zoom.us/j/95045077273?pwd=Y2Y2Q2VWbEUrd3lFRlUrdjlsczRVdz09
+
+
+# TP: reproduction de l'article de Mainen & Sejnowski, 1995
+
 
 * But de ce travail: lire un article scientifique, pouvoir le reproduire avec des simulations d'un neurone et afin d'améliorer sa compréhension.
 
@@ -10,7 +29,6 @@
 
 * Outils nécessaires: [Jupyter](https://jupyter.org/), avec [numpy](https://numpy.org/) et [matplotlib](https://matplotlib.org/). Ce sont des outils standard et qui sont facilement installables sur toute plateforme. Si vous avez des problèmes, me joindre par e-mail ou sur le [forum](https://spik.xyz/nc/index.php/call/xuswegwv) 👇
 
-# TP: reproduction de l'article de Mainen & Sejnowski, 1995
 
 ## contexte
 
