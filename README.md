@@ -25,10 +25,12 @@ Rendez-vous sur https://univ-amu-fr.zoom.us/j/95045077273?pwd=Y2Y2Q2VWbEUrd3lFRl
 
 * But de ce travail: lire un article scientifique, pouvoir le reproduire avec des simulations d'un neurone et afin d'améliorer sa compréhension.
 
-* Modalités: les étudiants s'organisent seuls, en binome ou en trinome pour fournir un mémoire sous forme de [notebook](https://jupyter.org/) complété à partir [du modèle qui est fourni](https://raw.githubusercontent.com/laurentperrinet/2021_UE-neurosciences-computationnelles/master/C_MainenSejnowski1995.ipynb)). Suivez les balises `TODO` dans le notebook pour vous guider dans cette rédaction. Les commentaires doivent être fait en français (ou en anglais si nécessaire) dans le notebook (n'oubliez-pas de sauver vos changements) et envoyé par e-mail à mailto:laurent.perrinet@univ-amu.fr une fois votre travail fini (de préférence avant le 31 avril).
+* Modalités: les étudiants s'organisent seuls, en binome ou en trinome pour fournir un mémoire sous forme de [notebook](https://jupyter.org/) complété à partir [du modèle qui est fourni](https://raw.githubusercontent.com/laurentperrinet/2021_UE-neurosciences-computationnelles/master/C_MainenSejnowski1995.ipynb)). Suivez les balises `TODO` dans le notebook pour vous guider dans cette rédaction. Les commentaires doivent être fait en français (ou en anglais si nécessaire) dans le notebook (n'oubliez-pas de sauver vos changements) et envoyé par e-mail à mailto:laurent.perrinet@univ-amu.fr une fois votre travail fini (de préférence *avant* le 31 avril).
 
-* Outils nécessaires: [Jupyter](https://jupyter.org/), avec [numpy](https://numpy.org/) et [matplotlib](https://matplotlib.org/). Ce sont des outils standard et qui sont facilement installables sur toute plateforme. Si vous avez des problèmes, me joindre par e-mail ou sur le [forum](https://spik.xyz/nc/index.php/call/xuswegwv) 👇
-
+* Outils nécessaires: [Jupyter](https://jupyter.org/), avec [numpy](https://numpy.org/) et [matplotlib](https://matplotlib.org/). Ce sont des outils standard et qui sont facilement installables sur toute plateforme. D'autres solutions hébergées existent:
+  * [ebrains / HBP](https://wiki.ebrains.eu/bin/view/Collabs/neuromorphic/SpiNNaker/)
+  * https://deepnote.com/
+  * sur  [GoogleColab](https://colab.research.google.com)  https://colab.research.google.com/github/laurentperrinet/2021_UE-neurosciences-computationnelles/blob/master/C_MainenSejnowski1995.ipynb
 
 ## contexte
 
@@ -53,7 +55,7 @@ Ici, nous allons essayer de répliquer la figure 1 de [Mainen & Sejnowski (1995)
 ## injection d'un bruit
 
 - Comme dans la figure 1 de Mainen & Sejnowski (1995), on ajoute un bruit à l'injection de courant
-- ce bruit peut être caractérisé par son amplitude et son temps caractéristique: quel est l'impact sur le résultat?
+- ce bruit peut être caracterisé par son amplitude et son temps caractéristique: quel est l'impact sur le résultat?
 - que se passe-t-il quand on inclut un bruit interne à la dynamique du neurone?
 
 # Annexes
