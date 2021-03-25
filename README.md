@@ -53,7 +53,7 @@ Ici, nous allons essayer de répliquer la figure 1 de [Mainen & Sejnowski (1995)
 ## injection d'un bruit
 
 - Comme dans la figure 1 de Mainen & Sejnowski (1995), on ajoute un bruit à l'injection de courant
-- ce bruit peut être caractisé par son amplitude et son temps caractéristique: quel est l'impact sur le résultat?
+- ce bruit peut être caractérisé par son amplitude et son temps caractéristique: quel est l'impact sur le résultat?
 - que se passe-t-il quand on inclut un bruit interne à la dynamique du neurone?
 
 # Annexes
